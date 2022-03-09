@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://blog.wangjiaan.cn/tags/index.html</loc>
+    
+    <lastmod>2022-03-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.wangjiaan.cn/categories/index.html</loc>
+    
+    <lastmod>2022-03-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.wangjiaan.cn/404.html</loc>
+    
+    <lastmod>2022-03-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.wangjiaan.cn/cn/Hexo-Theme-LiveMyLife/</loc>
+    
+    <lastmod>2020-04-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.wangjiaan.cn/en/Hexo-Theme-LiveMyLife/</loc>
+    
+    <lastmod>2020-04-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.wangjiaan.cn/archive/index.html</loc>
+    
+    <lastmod>2017-03-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.wangjiaan.cn/about/index.html</loc>
+    
+    <lastmod>2016-04-20</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://blog.wangjiaan.cn/</loc>
+    <lastmod>2022-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://blog.wangjiaan.cn/tags/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2022-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://blog.wangjiaan.cn/categories/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2022-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
